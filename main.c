@@ -1,6 +1,7 @@
 //lets do the next (3) commit
 //lets do the next (4) commit
 //branch 2 commit 1
+//branch 2 commit 2
 /**
   ******************************************************************************
   * @file     main progect 
