@@ -14,6 +14,9 @@
 #include <stdio.h>
 #include <math.h>
 #include <string.h>
+#include <string.h>
+#include <string.h>
+#include <string.h>
 
 /**
   * @addtogroup UART1_HyperTerminal_Interrupt
